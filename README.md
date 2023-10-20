@@ -11,3 +11,9 @@ Desta forma, imbutido no preço final que o consumidor paga no gás, existem div
 ## Objetivo do projeto
 
 Realizar um estudo sobre as diversas influências sobre o preço do GLP no Brasil e de que forma este variou ao longo dos últimos 3 anos, de janeiro de 2020 até junho de 2023.
+
+## Resultados
+
+### Variação do preço médio do GLP ao longo do tempo
+
+![serie_temporal_glp](https://github.com/rfprates/estudo_preco_glp/assets/145782356/91b6547a-c8bf-48be-8c9b-00f538c7cac7)
