@@ -12,6 +12,25 @@ Desta forma, imbutido no preço final que o consumidor paga no gás, existem div
 
 Realizar um estudo sobre as diversas influências sobre o preço do GLP no Brasil e de que forma este variou ao longo dos últimos 3 anos, de janeiro de 2020 até junho de 2023.
 
+## Bibliotecas utilizadas no desenvolvimento do projeto
+
+Segue uma lista com as bibliotecas utilizadas no desenvolvimento e resolução deste case
+
+- os
+- numpy
+- pandas
+- missingno
+- seaborn
+- matplotlib
+- datetime
+- sqlite3
+
+## Deployment
+
+Para executar o projeto é necessário baixar o arquivo "Case_estudo_preco_GLP.ipynb" (código do projeto) e todos os databases disponíveis na pasta "datasets". Feito isso, salvar todos os arquivos na mesma pasta e executar o código utilizando programas de visualização e leituras de códigos em jupyter notebook, como Visual Studio Code por exemplo, ou algum outro software similar.
+
+Obs: para executar o código corretamente as bibliotecas listadas na sessão anterior precisam estar instaladas em sua máquina.
+
 ## Resultados
 
 ### Variação do preço médio do GLP ao longo do tempo
